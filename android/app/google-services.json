@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365030102594",
+    "project_id": "crowdsourcedlostnfoundapp",
+    "storage_bucket": "crowdsourcedlostnfoundapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365030102594:android:ce859be2f695d878d87fdb",
+        "android_client_info": {
+          "package_name": "com.example.find_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruoGgX8-L-sVCGnyA5lAexo5vUWxL1JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
