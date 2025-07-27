@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDruoGgX8-L-sVCGnyA5lAexo5vUWxL1JE',
-    appId: '1:365030102594:android:ce859be2f695d878d87fdb',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '365030102594',
     projectId: 'crowdsourcedlostnfoundapp',
     storageBucket: 'crowdsourcedlostnfoundapp.firebasestorage.app',
